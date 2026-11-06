@@ -211,13 +211,6 @@ pnpm gen:types     # Generate tipe dari skema Supabase
 - [ ] Simulasi booking ruang diskusi
 - [ ] Skill swap dan verifikasi bukti karya (pasca-final)
 
-## Tim
-
-| Nama | Peran |
-|---|---|
-| Joice | UI/UX Designer |
-| Septian | Developer |
-
 ## Lisensi
 
 Tentukan lisensi (mis. MIT) sebelum repo dipublikasikan.
