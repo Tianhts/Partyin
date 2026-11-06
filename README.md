@@ -1,10 +1,4 @@
-# PartyUp Laskar
-
-> **Bentuk laskarmu.** Platform gamified untuk mencari tim, belajar bersama, dan berkolaborasi lintas jurusan di kampus.
-
-Dibuat untuk **GDGoC ITB Challenge, Case 1: "Smarter Campus and Learning"**.
-Edisi mobile dari [PartyUp!](https://partyup.vercel.app) (web). *Nama "PartyUp Laskar" bersifat sementara, sesuaikan jika berubah.*
-
+# PartyInNN
 ---
 
 ## Latar Belakang
