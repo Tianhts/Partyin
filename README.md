@@ -38,7 +38,6 @@ Rumus dihitung di database untuk keamanan; paket `shared` hanya menyediakan vers
 
 | Komponen | Status |
 |---|---|
-| Web (Next.js) | Live, dipakai untuk babak penyisihan |
 | Desain mobile (Figma) | Dalam proses |
 | Aplikasi mobile (Expo) | Direncanakan untuk babak final |
 | Booking ruang & verifikasi dosen | Simulasi untuk demo, butuh kerja sama institusi |
