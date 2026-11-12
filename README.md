@@ -1,4 +1,4 @@
-# PartyInNN
+# PartyInCodexmo
 ---
 
 ## Latar Belakang
